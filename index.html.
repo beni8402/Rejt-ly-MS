@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rejtélyes Üzenet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: white;
+            color: black;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>A tudás kulcsa a részletekben rejlik.</h1>
+    <p>Ha valóban kíváncsi vagy, tudd meg, mi rejlik az árnyékban. Az első lépés a harmadik ponton kezdődik. Minden kérdésre válasz érkezik, de csak akkor, ha hajlandó vagy keresni.</p>
+</body>
+</html>
